@@ -1,2 +1,2 @@
 "# Repository2" 
-My name is Ekaterina
+My name is Ekaterina Style
